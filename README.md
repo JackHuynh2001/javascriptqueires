@@ -1,1 +1,1 @@
-# javascriptqueires
+# JavaScriptQueries
